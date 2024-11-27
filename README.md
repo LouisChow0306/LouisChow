@@ -9,6 +9,6 @@ xx years old student of hanyang university.
 ## Tools Chain
 - Fedora(https://fedoraproject.org/)
 - macOS (https://www.apple.com/macos)
-- jetbrains's IDE(https://www.jetbrains.com/)
+- Jetbrains IDE(https://www.jetbrains.com/)
 - Pytorch(https://pytorch.org/)
 - AMD ROCm(https://www.amd.com/en/products/software/rocm.html)
