@@ -1,4 +1,5 @@
 # LouisChow
 ## About Me
 Hi!
-I'm Louis.
+I'm Louis.xx years old student of hanyang university.
+Interested in machine learning and hackintosh.
